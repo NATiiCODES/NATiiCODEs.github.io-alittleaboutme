@@ -1,0 +1,57 @@
+body {
+    background-color: #fafdff;
+
+}
+
+.mytable {
+    text-align: center;
+}
+
+h1 {
+    color: #125a4a;
+
+}
+
+h3 {
+    color: #125a4a;
+
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #125a4a;
+    border-width: 5px;
+    width: 5%;
+}
+img {
+    height: 200px;
+}
+.workexperience {
+    text-align: center;
+}
+
+.skillsexperience {
+    text-align: center;
+}
+
+td { 
+    color: #000000;
+}
+
+th {
+    color: #000000;
+}
+
+ul {
+    color: #000000;
+}
+
+a:hover{
+    color: #000000;
+}
+
+.skills {
+    color: #000000;
+
+}
